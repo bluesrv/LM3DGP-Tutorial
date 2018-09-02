@@ -5,7 +5,7 @@ Public fix to Learning Modern 3D Graphic Programming for all platforms
 ```
 sudo apt-get install premake4
 cd folder/to/tutorial
-cd glsdk
+cd glsdk/
 premake4 gmake
 make
 cd ..
