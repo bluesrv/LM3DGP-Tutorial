@@ -14,8 +14,8 @@ make
 ```
 All file linkings and dependencies should be handled by the premake4.lua script that we ran with the above code, so this should do it all.
 
-Fixes from original version:
+### Fixes from original version:
 
-*Including "X11" as a dependencie in Ubuntu
+* Including "X11" as a dependencie in Ubuntu
 
-*Adding a few variables and functions declarations in Inteprolations.h at /framework/
+* Adding a few variables and functions declarations in Inteprolations.h at /framework/
